@@ -6,7 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <p>how to use git</p>
+    <p>example</p>
     <script src="../release/bundle.js"></script>
+    <script>
+        var FC = window.FastCache;
+        var cache = new Fc();
+        cache.set('a', 100);
+        alert(cache.get('a'));
+    </script>
 </body>
 </html>
