@@ -6,6 +6,9 @@
 
 ## 安装下载
 查看文档，亦可clone到本地实现
+- 下载地址：https://github.com/Sheng14/how-git/releases
+-      `npm i how-git`
+- CDN: http://unpkg.com/how-git/release/bundle.js
 
 ## 快速使用
 简单接入的文档

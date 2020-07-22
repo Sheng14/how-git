@@ -1,6 +1,6 @@
 {
   "name": "how-git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "短小精悍的git项目实操示例",
   "main": "src/index.js",
   "scripts": {
@@ -28,5 +28,8 @@
     "babel-preset-latest": "^6.24.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }
